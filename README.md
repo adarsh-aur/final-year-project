@@ -69,7 +69,8 @@ We welcome contributions from:
 
 - Data engineers (ETL, pipelines, normalization).  
 - ML scientists (GNNs, anomaly detection).  
-- Security analysts (real-world attack scenarios & threat hunting).  
+- Security analysts (real-world attack scenarios & threat hunting).
+- API geeks
 
 ### Get Started
 ```bash
